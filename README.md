@@ -1,3 +1,4 @@
+[![Build Status](https://realmcgrue.visualstudio.com/MyFirstProject/_apis/build/status/realmcgrue.pipelines-java?branchName=master)](https://realmcgrue.visualstudio.com/MyFirstProject/_build/latest?definitionId=5&branchName=master)
 
 # Contributing
 
